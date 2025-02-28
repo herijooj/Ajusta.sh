@@ -2,6 +2,8 @@
 
 Um script Bash para processar, recortar e remapear dados em formato NetCDF (.nc) e controle (.ctl) por latitude, longitude, período e grade.
 
+![Ajusta](ajusta.png)
+
 ## Descrição
 
 `ajusta.sh` permite operações como:
